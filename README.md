@@ -14,6 +14,7 @@ This research was conducted for the **CallingBot Project** to address the high o
 I have built a dynamic cost calculator in Google Sheets. You can input call volumes to see the real-time financial impact.
 
 ![View Interactive Dashboard](./cost_analysis.png)
+![View Project Structure Map](./project_map.png)
 
 🔗 **[View Interactive Google Sheet](https://docs.google.com/spreadsheets/d/1jOtlzgpqzQ-TX8pHrBq6kIIz4ChbIPjmrA19sdlKV6M/edit?usp=sharing)**
 
